@@ -1,0 +1,33 @@
+body{
+font-variant: ;
+}
+.heading{
+font-size: 23px;
+width: 100%;
+margin : 0px;
+box-shadow:5px 5px 5px grey;
+}
+.no{
+    font-size:15;
+    color: black;
+}
+.footer{
+    position:fixed;
+    bottom: 0;
+    line-height:3;
+    width:100%;
+    background-color: rgb(255, 161, 161);
+    color:black;
+    text-align:center;
+}
+Canvas{
+border: 5px  rgb(255, 123, 0);
+border-style: ridge;
+border-radius: 20px;
+
+}
+body{
+    background:url("ffgfg.svg");
+    background-size:cover;
+    background-position:center;
+}
